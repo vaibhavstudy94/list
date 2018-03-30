@@ -1,0 +1,4 @@
+1) EditText
+2) ListView
+3) TextView
+4) Button
